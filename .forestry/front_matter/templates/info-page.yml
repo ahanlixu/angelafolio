@@ -29,6 +29,11 @@ fields:
   - type: text
     name: email
     label: email
+  - name: github_handle
+    type: text
+    config:
+      required: false
+    label: github
 - name: background_color
   type: color
   label: background_color
