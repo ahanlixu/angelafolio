@@ -34,7 +34,6 @@ fields:
     config:
       required: false
     label: github
-    description: Github username
 - name: background_color
   type: color
   label: background_color
