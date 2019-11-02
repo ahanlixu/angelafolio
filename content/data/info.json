@@ -1,6 +1,6 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>Hello, I'm Angela! I'm a San Francisco-based engineer-turned-designer.</p><p>Welcome to my portfolio website! Pardon the dust as I continue to work on my portfolio and attempt to teach myself front-end things. (Learn by doing!)</p>",
+  "cta": "<p>Links:</p><p><a href=\"https://www.linkedin.com/in/angela-xu-91894477/\" title=\"\">LinkedIn</a></p><p><a href=\"https://github.com/ahanlixu\" title=\"\">Github (current)</a></p><p><a href=\"https://github.com/a1xu\" title=\"\">Github (undergrad stuff)</a></p><p>Resume</p><p></p><p>Contact:</p>",
   "contact": {
     "email": "ahanlixu@gmail.com",
     "twitter_handle": "",
