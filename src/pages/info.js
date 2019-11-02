@@ -10,6 +10,7 @@ export default function Info() {
       <section className={infoStyles.info_blurb}>
         <h2>
           <div dangerouslySetInnerHTML={{__html: infoData.description}}></div>
+          <br>
           <div dangerouslySetInnerHTML={{__html: infoData.cta}}></div>
         </h2>
       </section>
