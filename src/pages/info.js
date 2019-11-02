@@ -12,13 +12,6 @@ export default function Info() {
           <div dangerouslySetInnerHTML={{__html: infoData.description}}></div>
           <div dangerouslySetInnerHTML={{__html: infoData.cta}}></div>
         </h2>
-        <ul>
-          <li>
-            <p>
-              <a href={`mailto:${infoData.contact.email}`}>Email: {infoData.contact.email}</a>
-            </p>
-          </li>
-        </ul>
       </section>
     </Layout>
   )
