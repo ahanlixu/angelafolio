@@ -18,6 +18,7 @@ fields:
       path: authors
   label: author
   description: Enter author of post
+  hidden: true
 - name: date
   type: text
   config:
