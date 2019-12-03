@@ -1,8 +1,8 @@
 ---
-date: 2019-07-31T22:43:31Z
-title: An Essay on Walking
+date: January 2019 - March 2019
+title: Audrey's Website
 author: Angela Xu
-hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+hero_image: "/content/images/Screen Shot 2019-12-02 at 8.29.48 PM.png"
 project_duration: ''
 
 ---
