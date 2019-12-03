@@ -1,6 +1,6 @@
 ---
-date: 2019-07-22T22:44:38Z
-title: Song of Myself
+date: January 2019 - March 2019
+title: Progress
 author: Ralph Waldo Emerson
 hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 
