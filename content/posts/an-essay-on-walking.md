@@ -1,8 +1,9 @@
 ---
-date: 2019-07-31T22:43:31.000+00:00
+date: 2019-07-31T22:43:31Z
 title: An Essay on Walking
 author: Angela Xu
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+project_duration: ''
 
 ---
 Then it is that I appreciate the beauty and the glory of architecture, which itself never turns in, but forever stands out and erect, keeping watch over the slumberers.
