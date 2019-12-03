@@ -19,15 +19,11 @@ fields:
   label: author
   description: Enter author of post
 - name: date
-  type: datetime
-  label: date
-  description: Date post was created
+  type: text
   config:
     required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-  default: now
+  label: date
+  description: Project duration
 - name: hero_image
   type: file
   config:
@@ -35,11 +31,6 @@ fields:
   label: hero image
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
-- name: project_duration
-  type: text
-  config:
-    required: false
-  label: project duration
 pages:
 - content/posts/an-essay-on-walking.md
 - content/posts/on-the-geneology-of-morals.md
