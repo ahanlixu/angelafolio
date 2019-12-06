@@ -1,6 +1,6 @@
 ---
-date: 2019-08-08T22:42:09Z
-title: Sunflower Sutra
+date: February 2019
+title: Reading Design Challenge
 author: Allen Ginsberg
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
